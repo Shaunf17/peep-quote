@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/peep-quote/static/css/main.da370ef4.css",
+    "main.js": "/peep-quote/static/js/main.24e42e49.js",
+    "static/js/453.5f11353e.chunk.js": "/peep-quote/static/js/453.5f11353e.chunk.js",
+    "index.html": "/peep-quote/index.html",
+    "main.da370ef4.css.map": "/peep-quote/static/css/main.da370ef4.css.map",
+    "main.24e42e49.js.map": "/peep-quote/static/js/main.24e42e49.js.map",
+    "453.5f11353e.chunk.js.map": "/peep-quote/static/js/453.5f11353e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da370ef4.css",
+    "static/js/main.24e42e49.js"
+  ]
+}
